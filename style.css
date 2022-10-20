@@ -1,0 +1,77 @@
+*{      margin: 0;
+        align-self: center;
+        font-family: 'Poppins', sans-serif;
+        
+}
+#mainbody{
+    
+    background: linear-gradient(rgba(75, 99, 232, 0.45),#584fa7),url(images/pic.jpg);
+    background-size: cover; 
+    background-position: center;
+    height: 200vh;
+    color: white;
+    padding-top: 70px;
+    font-size: 18px;
+}
+
+.desc p{
+    text-align: center;
+    font-size: 30px;
+}
+.note p{
+    text-align: center;
+    font-size: 22px;
+    font-style: italic;
+    width: 30%;
+   margin: auto;
+   font-family: 'Poppins', sans-serif;
+}
+.entry{
+    background: rgba(26, 25, 30, 0.8);
+    padding-left: 40px;
+    width: 40%;
+    height: 90%; 
+    margin: auto;
+    border-radius: 7px;
+}
+.f{
+    padding-top: 60px;
+}
+
+
+.form-get{
+    width: 90%;
+    height: 27px;
+    border-radius: 5px;
+    
+}
+.textarea{
+    padding-bottom: 80px;
+    width: 89%;
+    text-align: justify;
+    font-size: 20px;
+    
+}
+.button{
+    padding-top: 20px;
+    float: center;
+   margin: auto;
+   font-size: 18%;
+}
+.submit-button{
+margin: auto;
+text-align: center;
+height: 60px;
+width: 90%;
+background: rgb(51, 160, 73);
+color: white;
+border-radius: 5px;
+border: none;
+border: solid rgb(51, 160, 73) 12px;
+font-size: 20px;
+}
+
+
+label{
+    line-height: 35px;
+}
