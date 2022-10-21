@@ -5,7 +5,7 @@
 }
 #mainbody{
     
-    background: linear-gradient(rgba(75, 99, 232, 0.45),#584fa7),url(images/pic.jpg);
+    background: linear-gradient(rgba(75, 99, 232, 0.45),#584fa7),url(../images/pic.jpg);
     background-size: cover; 
     background-position: center;
     color: white;
