@@ -8,7 +8,6 @@
     background: linear-gradient(rgba(75, 99, 232, 0.45),#584fa7),url(images/pic.jpg);
     background-size: cover; 
     background-position: center;
-    height: 200vh;
     color: white;
     padding-top: 70px;
     font-size: 18px;
@@ -30,12 +29,12 @@
     background: rgba(26, 25, 30, 0.8);
     padding-left: 40px;
     width: 40%;
-    height: 90%; 
     margin: auto;
     border-radius: 7px;
+    padding-bottom: 20px;
 }
 .f{
-    padding-top: 60px;
+    padding-top: 15px;
 }
 
 
@@ -69,6 +68,7 @@ border-radius: 5px;
 border: none;
 border: solid rgb(51, 160, 73) 12px;
 font-size: 20px;
+padding-bottom: auto;
 }
 
 
