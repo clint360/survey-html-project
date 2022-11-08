@@ -1,42 +1,47 @@
-*{      margin: 0;
-        align-self: center;
-        font-family: 'Poppins', sans-serif;
+*{      
+    margin: 0;
+    align-self: center;
+    font-family: 'Poppins', sans-serif;
         
 }
+
 #mainbody{
-    
-    background: linear-gradient(rgba(75, 99, 232, 0.45),#584fa7),url(../images/pic.jpg);
-    background-size: cover; 
-    background-position: center;
-    color: white;
-    padding-top: 70px;
-    font-size: 18px;
+  background: linear-gradient(rgba(129, 58, 211, 0.384),#584fa7),url(../images/pic.jpg);
+  background-size: cover; 
+  background-position: center;
+  color: white;
+  padding-top: 70px;
+  font-size: 18px;
 }
 
 .desc p{
-    text-align: center;
-    font-size: 30px;
+  text-align: center;
+  font-size: 30px;
 }
+
 .note p{
-    text-align: center;
-    font-size: 22px;
-    font-style: italic;
-    width: 30%;
-   margin: auto;
-   font-family: 'Poppins', sans-serif;
+  text-align: center;
+  font-size: 20px;
+  font-style: italic;
+  width: 30%;
+  min-width: 400PX;
+  margin: auto; 
+  font-family: 'Poppins', sans-serif;
 }
+
 .entry{
     background: rgba(26, 25, 30, 0.8);
     padding-left: 40px;
     width: 40%;
+    min-width: 320px;
     margin: auto;
     border-radius: 7px;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
 }
+
 .f{
     padding-top: 15px;
 }
-
 
 .form-get{
     width: 90%;
@@ -48,15 +53,16 @@
     padding-bottom: 80px;
     width: 89%;
     text-align: justify;
-    font-size: 20px;
-    
+    font-size: 20px;   
 }
+
 .button{
     padding-top: 20px;
     float: center;
    margin: auto;
    font-size: 18%;
 }
+
 .submit-button{
 margin: auto;
 text-align: center;
@@ -71,7 +77,8 @@ font-size: 20px;
 padding-bottom: auto;
 }
 
-
 label{
     line-height: 35px;
 }
+
+
